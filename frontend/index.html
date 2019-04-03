@@ -55,8 +55,7 @@
             var h_fact = canvas.height / canvas.offsetHeight;
             ctx = canvas.getContext('2d');
             ctx.strokeStyle = 'yellow';
-            ctx.rect(data['x'] * w_fact, data['y'] * h_fact,(data['w']
-                - data['x']) * w_fact, (data['h'] - data['y']) * h_fact);
+            ctx.rect(data['x'] * w_fact, data['y'] * h_fact, data['w'] * w_fact, data['h'] * h_fact);
             ctx.stroke();
 
         });
