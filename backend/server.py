@@ -32,4 +32,3 @@ def handle_message(data):
 if __name__ == '__main__':
     print("Starting server ...")
     socketio.run(app)
-    print("asd")
