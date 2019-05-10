@@ -1,7 +1,7 @@
 # Web Face Detection Demo via Sockets
 
 End to end face detection web application with communication via socket. This demo employs the python package
-face-detector (pip install face-detector, https://github.com/roj4s/face\_detector).
+face-detector (pip install face-detector, https://github.com/roj4s/face_detector).
 
 ## How to deploy
 
