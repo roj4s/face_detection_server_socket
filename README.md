@@ -22,7 +22,7 @@ locally in your pc (i.e
 Fig 1 shows a screenshot of the demo running.
 
 <div style="text-align:center">
-<img src="https://raw.githubusercontent.com/roj4s/face_detection_server_socket/master/sample.png" />
+<!--<img src="https://raw.githubusercontent.com/roj4s/face_detection_server_socket/master/sample.png" />-->
 <p>Fig. 1 Screenshot of demo running in Google Chrome browser.</p>
 </div>
 
